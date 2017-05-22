@@ -1,7 +1,7 @@
-Reconception de la gamme “Responsiv”
-====================================
+Re-conception de la gamme “Responsiv”
+=====================================
 
-Bienvenue sur l’espace collaboratif dédié à la reconception des produits de la
+Bienvenue sur l’espace collaboratif dédié à la re-conception des produits de la
 gamme “Responsiv - Made in France”!
 
 ![](ressources/images/responsiv-3l.jpg)
@@ -36,7 +36,7 @@ Ce que vous pouvez faire pour avancer le projet:
 
 -   Faire évoluer la forme du produit en éditant les patronages \<lien vers les
     patronnages\>. Les patronages sont des fichiers au [format
-    .svg](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics)pouvant être
+    .svg](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) pouvant être
     édités sous le logiciel open source Inkscape \<lien vers tutorial inkscape\>
     (et également avec Adobe Illustrator).
 
@@ -89,12 +89,13 @@ Comment contribuer?
     développement ou vous pourrez faire vos modifications dans votre espace
     personnel. Vous pourrez ensuite proposer à Raidlight d’intégrer vos
     modifications dans la branche de développement principale. Vous trouverez
-    [ici ](https://guides.github.com/introduction/flow/)plus d’informations sur
+    [ici](https://guides.github.com/introduction/flow/) plus d’informations sur
     la manière de travailler dans GitHub.
 
--   Participez aux discussions autour des [améliorations
-    ](https://github.com/Raidlight/Projet-Pilote-Open-Source/issues)qui ont déjà
-    été proposées par la communauté ou proposez une nouvelle idée originale.
+-   Participez aux discussions autour des
+    [améliorations](https://github.com/Raidlight/Projet-Pilote-Open-Source/issues)
+    qui ont déjà été proposées par la communauté ou proposez une nouvelle idée
+    originale.
 
 -   Modifiez vous-même les documents mis à votre disposition afin de mettre en
     oeuvre les propositions de la communauté ou pour réaliser votre propre idée.
@@ -128,7 +129,7 @@ Contacts
 
 \@Mélodie: prototypage
 
-\@jbon: Jérémy, support technique
+\@jbonv: Jérémy, support technique
 
 License
 =======
