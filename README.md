@@ -4,7 +4,7 @@ Re-conception de la gamme “Responsiv”
 Bienvenue sur l’espace collaboratif dédié à la re-conception des produits de la
 gamme “Responsiv - Made in France”!
 
-![](ressources/images/responsiv-3l.jpg)
+![](ressources/images/3 sacs.jpg)
 
 Chez Raidlight, nous ne nous intéressons pas qu’à la performance de nos
 produits: nous nous engageons également pour le développement durable. Nous
@@ -34,8 +34,9 @@ Vos contributions sont les bienvenues
 
 Ce que vous pouvez faire pour avancer le projet:
 
--   Faire évoluer la forme du produit en éditant les patronages \<lien vers les
-    patronnages\>. Les patronages sont des fichiers au [format
+-   Faire évoluer la forme du produit en éditant les
+    [patrons](https://github.com/Raidlight/Projet-Pilote-Open-Source/tree/master/Patrons).
+    Les patrons sont des fichiers au [format
     .svg](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) pouvant être
     édités sous le logiciel open source Inkscape \<lien vers tutorial inkscape\>
     (et également avec Adobe Illustrator).
@@ -129,7 +130,7 @@ Contacts
 
 \@Mélodie: prototypage
 
-\@jbonv: Jérémy, support technique
+[\@jbon](https://github.com/jbon): Jérémy, support technique
 
 License
 =======
