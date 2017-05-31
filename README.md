@@ -4,7 +4,7 @@ Re-conception de la gamme “Responsiv”
 Bienvenue sur l’espace collaboratif dédié à la re-conception des produits de la
 gamme “Responsiv - Made in France”!
 
-![](ressources/images/3 sacs.jpg)
+![](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/3%20sacs.jpg)
 
 Chez Raidlight, nous ne nous intéressons pas qu’à la performance de nos
 produits: nous nous engageons également pour le développement durable. Nous
