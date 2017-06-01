@@ -4,7 +4,7 @@ Re-conception de la gamme “Responsiv”
 Bienvenue sur l’espace collaboratif dédié à la re-conception des produits de la
 gamme “Responsiv - Made in France”!
 
-![](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/3%20sacs.jpg)
+![Gamme Responsiv](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/3%20sacs.jpg)
 
 Chez Raidlight, nous ne nous intéressons pas qu’à la performance de nos
 produits: nous nous engageons également pour le développement durable. Nous
@@ -131,6 +131,12 @@ Contacts
 \@Mélodie: prototypage
 
 [\@jbon](https://github.com/jbon): Jérémy, support technique
+
+Ce projet pilote est mené dans le cadre du projet de recherche franco-allemand
+“Open! Methods and tools for community-based product development”. Pour en
+savoir plus sur ce projet: [opensourcedesign.cc](https://opensourcedesign.cc/)
+
+![Logo Open!](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/open-logo-medium.png) 
 
 License
 =======
