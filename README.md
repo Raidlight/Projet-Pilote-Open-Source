@@ -121,6 +121,15 @@ donc qui n’aideront pas la communauté des traileurs. En revanche, rien n’em
 de créer des add-ons, des modules supplémentaires optionnels qui pourront venir
 s’ajouter au produit pour en augmenter les fonctionnalités.
 
+License
+=======
+
+L’ensemble des contenus partagés dans cet espace projet sont publiés sur la
+license CC-BY-NC-SA (Creative Commons avec attribution, sans utilisation
+commerciale et avec partage des conditions initiales à l'identique). En
+participant aux contenu de cet espace, vous acceptez que vos contributions
+soient également publiées sous cette license.
+
 Contacts
 ========
 
@@ -136,13 +145,4 @@ Ce projet pilote est mené dans le cadre du projet de recherche franco-allemand
 “Open! Methods and tools for community-based product development”. Pour en
 savoir plus sur ce projet: [opensourcedesign.cc](https://opensourcedesign.cc/)
 
-![Logo Open!](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/open-logo-medium.png) 
-
-License
-=======
-
-L’ensemble des contenus partagés dans cet espace projet sont publiés sur la
-license CC-BY-NC-SA (Creative Commons avec attribution, sans utilisation
-commerciale et avec partage des conditions initiales à l'identique). En
-participant aux contenu de cet espace, vous acceptez que vos contributions
-soient également publiées sous cette license.
+![Bannière Open!](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/open-banner.png)
