@@ -21,13 +21,13 @@ Quelques tutoriels sur les fonctionnalités de base d’Inkscape :
 -   [Tracer des formes prédéfinies](https://www.youtube.com/watch?v=1yFJDkXosLI)
     (carré, rectangle, etc.)
 
-Exemple d’application 1 - Modifier la découpe d’une pièce textile
------------------------------------------------------------------
+Exemples d’application
+----------------------
 
-Voici un exemple de modification apportée sur la pièce de dos d’un patron (la
-forme de la découpe du coup a été modifiée).
+-   Modifier la découpe d’une pièce textile: voici un exemple de [modification
+    apportée sur la pièce de dos d’un
+    patron](https://github.com/Raidlight/Projet-Pilote-Open-Source/commit/8a5d73679a6dabe9b15f5ae72c5c85f0ef54bcc0?short_path=4d380e6#diff-4d380e6a99fc95a08c6a83a4d9edb770)
+    (la forme de la découpe du coup a été modifiée).
 
-Exemple d’application 2 - Ajouter une texture
----------------------------------------------
-
-\<coming soon\>
+-   Ajouter une texture: voici un exemple ajout de texture pour l’ajourage d’une
+    pièce textile \<coming soon\>.
