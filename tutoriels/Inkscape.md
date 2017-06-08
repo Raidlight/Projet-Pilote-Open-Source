@@ -29,5 +29,6 @@ Exemples d’application
     patron](https://github.com/Raidlight/Projet-Pilote-Open-Source/commit/8a5d73679a6dabe9b15f5ae72c5c85f0ef54bcc0?short_path=4d380e6#diff-4d380e6a99fc95a08c6a83a4d9edb770)
     (la forme de la découpe du coup a été modifiée).
 
--   Ajouter une texture: voici un exemple ajout de texture pour l’ajourage d’une
-    pièce textile \<coming soon\>.
+-   Ajouter une texture: voici un exemple [ajout de texture pour l’ajourage
+    d’une pièce
+    textile](https://github.com/Raidlight/Projet-Pilote-Open-Source/commit/7a6e7c1be22350ee4bcc65e2f9e58672c2213320?short_path=c1cac76#diff-c1cac7691e532cb682f121a8d9d95167).
