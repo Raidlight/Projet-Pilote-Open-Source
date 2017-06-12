@@ -29,8 +29,8 @@ Démarche
 
 -   Ligne d’arrivée: votre nom sur le produit ou sur son étiquette.
 
-Vos contributions sont les bienvenues
--------------------------------------
+Vos contributions sont les bienvenues!
+--------------------------------------
 
 Ce que vous pouvez faire pour avancer le projet:
 
@@ -121,7 +121,7 @@ pour mettre en oeuvre vos idées!
 
 -   \@jeanbaptiste: design
 
--   \@Mélodie: prototypage
+-   \@[Mélodie](https://github.com/MelodieRaidlight): prototypage
 
 -   [\@jbon](https://github.com/jbon): Jérémy, support technique
 

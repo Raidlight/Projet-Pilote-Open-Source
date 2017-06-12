@@ -1,55 +1,55 @@
-Spécifications
-==============
+Spécifications pour la Re-conception de la gamme “Responsiv”
+============================================================
 
-pour la Re-conception de la gamme “Responsiv”
----------------------------------------------
+Fonctionnalités essentielles des sacs-à-dos de la gamme Responsiv:
 
-Pour toute la gamme :
+-   Ballottement minimal grâce à une forme en gilet pour maintenir le poids
+    proche du corps.
 
--   Le sac-à-dos doit rester un gilet, proche du corps pour ballotter le moins
-    possible.
+-   Légèreté maximale, non seulement pour de meilleures performances de trail
+    mais aussi pour faciliter la production en France: moins de poids, c’est
+    moins de pièces à assembler et moins de travail manuel.
 
--   Garder un système de serrage micro-métrique
+-   Bretelles avant combinant hydratation passive et portage de petits objets,
+    afin de minimiser l’effort pour boire et accéder aux objets essentiels
+    pendant la course.
 
--   Garder un système d’hydratation sur les bretelles avant, avec poche doublées
+-   Porte-bâton.
 
--   Garder un système de porte-bâtons
+-   Système de serrage micro-métrique permettant un réglage fin de la tenue.
 
--   Le sac ne doit pas dépasser son poids actuel qui devrait tendre vers la
-    baisse.
+Responsiv 3 L :
+
+-   Bande centrale
+
+-   *Poids actuel : 210gr*
+
+Responsiv 10L :
+
+-   *poids actuel : 230gr*
+
+Responsiv 25L :
+
+-   Système de compression permettant de stabiliser le contenu et éviter le
+    ballottement.
+
+-   Système de fermeture faisant office de rappel de charge, c’est-à-dire
+    ramenant le poids vers le dos et évitant le porte-à-faux afin de minimiser
+    le déséquilibre du coureur.
+
+-   *Poids actuel : 270gr*
+
+Contraintes de conception
+-------------------------
+
+-   Garder les fonctionnalités décrites ci-dessus, éventuellement sous forme
+    améliorée.
 
 -   Respecter les litrages annoncés, poches additionnelles comprises
 
 -   Garder les logos Raidlight
 
 -   Prévoir 1 cm de plus par côté pour les finitions
-
- 
-
-Responsiv 3 L :
-
--   Garder la bande centrale
-
--   *Poids actuel : 210gr*
-
- 
-
-Responsiv 10L :
-
--   *poids actuel : 230gr*
-
- 
-
-Responsiv 25L :
-
--   Le sac doit comporter un système de compression
-
--   Les système de fermeture du sac doit aussi permettre de faire office de
-    rappel de charge
-
--   *Poids actuel : 270gr*
-
- 
 
 Règles de conception
 --------------------
