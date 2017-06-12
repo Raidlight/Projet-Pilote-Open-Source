@@ -7,8 +7,8 @@ A quoi sert sert GitHub?
     versionnement de fichiers qui permet de retracer l’évolution d’un projet
     depuis sa création. Il peut afficher le statut d’un projet à un moment donné
     (voir
-    [ici](https://github.com/Raidlight/Projet-Pilote-Open-Source/tree/070fe9f6a15e9507612fdf21694784dca48d147f)le
-    statut du projet au 16 Mai 2017 et ici le [statut
+    [ici](https://github.com/Raidlight/Projet-Pilote-Open-Source/tree/070fe9f6a15e9507612fdf21694784dca48d147f)
+    le statut du projet au 16 Mai 2017 et ici le [statut
     actuel](https://github.com/Raidlight/Projet-Pilote-Open-Source)) et afficher
     qui a fait quoi et quand (par exemple, l’utilisateur [jbon a crée ce
     tutoriel le 12 Juin
@@ -27,7 +27,7 @@ A quoi sert sert GitHub?
     retrouverez
     [ici](https://github.com/Raidlight/Projet-Pilote-Open-Source/issues) tous
     les fils de discussion déjà ouverts. Un exemple est le fil de discussion
-    “F[aciliter l’accès aux poches
+    “[Faciliter l’accès aux poches
     arrière](https://github.com/Raidlight/Projet-Pilote-Open-Source/issues/1)”.
 
 Contribuer en 4 étapes:
