@@ -121,28 +121,40 @@ donc qui n’aideront pas la communauté des traileurs. En revanche, rien n’em
 de créer des add-ons, des modules supplémentaires optionnels qui pourront venir
 s’ajouter au produit pour en augmenter les fonctionnalités.
 
-License
-=======
+Besoin d’aide?
+--------------
 
-L’ensemble des contenus partagés dans cet espace projet sont publiés sur la
-license CC-BY-NC-SA (Creative Commons avec attribution, sans utilisation
-commerciale et avec partage des conditions initiales à l'identique). En
-participant aux contenu de cet espace, vous acceptez que vos contributions
-soient également publiées sous cette license.
+Voici quelques tutoriels sur les outils mis à votre disposition:
 
-Contacts
-========
+-   La plateforme collaborative GitHub: [vers le
+    tutoriel](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/tutoriels/GitHub.md).
 
-\@[NadegeRaidlight](https://github.com/NadegeRaidlight): Nadège, coordinatrice
+-   L’outil de dessin Inkscape: [vers le
+    tutoriel](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/tutoriels/Inkscape.md).
 
-\@jeanbaptiste: design
+N’hésitez pas à nous contacter si vous avez besoin d’aide quant aux outils ou
+pour mettre en oeuvre vos idées!
 
-\@Mélodie: prototypage
+-   \@[NadegeRaidlight](https://github.com/NadegeRaidlight): Nadège,
+    coordinatrice
 
-[\@jbon](https://github.com/jbon): Jérémy, support technique
+-   \@jeanbaptiste: design
+
+-   \@Mélodie: prototypage
+
+-   [\@jbon](https://github.com/jbon): Jérémy, support technique
 
 Ce projet pilote est mené dans le cadre du projet de recherche franco-allemand
 “Open! Methods and tools for community-based product development”. Pour en
 savoir plus sur ce projet: [opensourcedesign.cc](https://opensourcedesign.cc/)
 
 ![Bannière Open!](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/open-banner.png)
+
+License
+-------
+
+L’ensemble des contenus partagés dans cet espace projet sont publiés sur la
+license CC-BY-NC-SA (Creative Commons avec attribution, sans utilisation
+commerciale et avec partage des conditions initiales à l'identique). En
+participant aux contenu de cet espace, vous acceptez que vos contributions
+soient également publiées sous cette license.
