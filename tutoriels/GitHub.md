@@ -1,7 +1,7 @@
 La plateforme collaborative GitHub
 ==================================
 
-À quoi sert sert GitHub?
+À quoi sert GitHub?
 
 -   **À travailler ensemble en toute transparence**: GitHub est un système de
     versionnement de fichiers qui permet de retracer l’évolution d’un projet
