@@ -6,12 +6,12 @@ A quoi sert sert GitHub?
 -   **À travailler ensemble en toute transparence**: GitHub est un système de
     versionnement de fichiers qui permet de retracer l’évolution d’un projet
     depuis sa création. Il peut afficher le statut d’un projet à un moment donné
-    (voir [ici
-    ](https://github.com/Raidlight/Projet-Pilote-Open-Source/tree/070fe9f6a15e9507612fdf21694784dca48d147f)le
+    (voir
+    [ici](https://github.com/Raidlight/Projet-Pilote-Open-Source/tree/070fe9f6a15e9507612fdf21694784dca48d147f)le
     statut du projet au 16 Mai 2017 et ici le [statut
     actuel](https://github.com/Raidlight/Projet-Pilote-Open-Source)) et afficher
-    qui a fait quoi et quand (par exemple, l’utilisateur jbon a crée ce tutoriel
-    le 12 Juin 2017 \<**add link**\>).
+    qui a fait quoi et quand (par exemple, l’utilisateur [jbon a crée ce
+    tutoriel le 12 Juin
 
 -   **À travailler en parallèle**: Le système de versionnement GitHub est
     décentralisé, c’est-à-dire que chaque personne participant au projet possède
@@ -48,5 +48,5 @@ Contribuer en 4 étapes:
     c’est-à-dire une demande à la communauté de regarder vos modifications et de
     les accepter.
 
-Vous trouverez [ici ](https://guides.github.com/introduction/flow/)une
+Vous trouverez [ici](https://guides.github.com/introduction/flow/)une
 explication complète du fonctionnement de GitHub.
