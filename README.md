@@ -38,7 +38,8 @@ Ce que vous pouvez faire pour avancer le projet:
     [patrons](https://github.com/Raidlight/Projet-Pilote-Open-Source/tree/master/Patrons).
     Les patrons sont des fichiers au [format
     .svg](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) pouvant être
-    édités sous le logiciel open source Inkscape \<lien vers tutorial inkscape\>
+    édités sous le logiciel open source
+    [Inkscape](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/tutoriels/Inkscape.md)
     (et également avec Adobe Illustrator).
 
 -   Modifier les propriétés des matériaux (p .ex. respiration, flexibilité) en
@@ -90,8 +91,8 @@ Comment contribuer?
     développement ou vous pourrez faire vos modifications dans votre espace
     personnel. Vous pourrez ensuite proposer à Raidlight d’intégrer vos
     modifications dans la branche de développement principale. Vous trouverez
-    [ici](https://guides.github.com/introduction/flow/) plus d’informations sur
-    la manière de travailler dans GitHub.
+    [ici](https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/tutoriels/GitHub.md)
+    plus d’informations sur la manière de travailler dans GitHub.
 
 -   Participez aux discussions autour des
     [améliorations](https://github.com/Raidlight/Projet-Pilote-Open-Source/issues)
@@ -100,26 +101,6 @@ Comment contribuer?
 
 -   Modifiez vous-même les documents mis à votre disposition afin de mettre en
     oeuvre les propositions de la communauté ou pour réaliser votre propre idée.
-
-Règles de conception
---------------------
-
-Règle N° 1 : “less is more”. Nous voulons maintenir la production en France, ce
-qui nécessite de limiter le nombre de pièces et d’optimiser le montage. Chaque
-pièce supplémentaire engendre un coût de production supplémentaire. Çà n’est pas
-dramatique quand on où la main d’oeuvre est bon marché. Mais quand on veut
-produire localement, il faut concevoir léger pour ne pas faire exploser les
-coûts. De plus, plus le sac est léger, moins il pèsera sur les épaules de
-coureurs.
-
-Règle N°2: “la convergence avant les divergences”. La démarche est de créer
-ensemble une nouvelle version de la gamme “Responsiv”, c’est-à-dire de trouver
-l’ensemble cohérent de fonctionnalités qui convient le mieux à l’ensemble des
-publics visés par les produits de cette gamme. L’idée n’est pas de créer toute
-une variation de produits disparates que Raidlight ne pourra pas produire et
-donc qui n’aideront pas la communauté des traileurs. En revanche, rien n’empêche
-de créer des add-ons, des modules supplémentaires optionnels qui pourront venir
-s’ajouter au produit pour en augmenter les fonctionnalités.
 
 Besoin d’aide?
 --------------
