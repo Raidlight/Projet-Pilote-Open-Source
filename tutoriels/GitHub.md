@@ -12,6 +12,7 @@ A quoi sert sert GitHub?
     actuel](https://github.com/Raidlight/Projet-Pilote-Open-Source)) et afficher
     qui a fait quoi et quand (par exemple, l’utilisateur [jbon a crée ce
     tutoriel le 12 Juin
+    2017](https://github.com/Raidlight/Projet-Pilote-Open-Source/commit/cc97fea576658c3ff3385c7b1190c0917f9206e9?short_path=cda9ba7#diff-cda9ba73872e75b3757e5fc360b86ca4)).
 
 -   **À travailler en parallèle**: Le système de versionnement GitHub est
     décentralisé, c’est-à-dire que chaque personne participant au projet possède
