@@ -4,23 +4,24 @@ Spécifications pour la Re-conception de la gamme “Responsiv”
 Fonctionnalités essentielles des sacs-à-dos de la gamme Responsiv:
 
 -   Ballottement minimal grâce à une forme en gilet pour maintenir le poids
-    proche du corps.
+    proche du corps
 
 -   Légèreté maximale, non seulement pour de meilleures performances de trail
     mais aussi pour faciliter la production en France: moins de poids, c’est
-    moins de pièces à assembler et moins de travail manuel.
+    moins de pièces à assembler et moins de travail manuel
 
 -   Bretelles avant combinant hydratation passive et portage de petits objets,
     afin de minimiser l’effort pour boire et accéder aux objets essentiels
-    pendant la course.
+    pendant la course
 
--   Porte-bâton.
+-   Porte-bâton
 
--   Système de serrage micro-métrique permettant un réglage fin de la tenue.
+-   Système de serrage micro-métrique permettant un réglage fin de la tenue
 
 Responsiv 3 L :
 
--   Bande centrale
+-   Bande centrale permettrait de compartimenter la poche en 2 parties et
+    portant le logo Raidlight
 
 -   *Poids actuel : 210gr*
 
@@ -31,11 +32,11 @@ Responsiv 10L :
 Responsiv 25L :
 
 -   Système de compression permettant de stabiliser le contenu et éviter le
-    ballottement.
+    ballottement
 
 -   Système de fermeture faisant office de rappel de charge, c’est-à-dire
     ramenant le poids vers le dos et évitant le porte-à-faux afin de minimiser
-    le déséquilibre du coureur.
+    le déséquilibre du coureur
 
 -   *Poids actuel : 270gr*
 
