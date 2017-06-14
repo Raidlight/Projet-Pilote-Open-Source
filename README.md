@@ -119,7 +119,7 @@ pour mettre en oeuvre vos idées!
 -   \@[NadegeRaidlight](https://github.com/NadegeRaidlight): Nadège,
     coordinatrice
 
--   \@JeanBaptisteMartin(https://github.com/JeanBaptisteMartin) : design
+-   \@[JeanBaptisteMartin](https://github.com/JeanBaptisteMartin): design
 
 -   \@[Mélodie](https://github.com/MelodieRaidlight): prototypage
 
