@@ -135,7 +135,11 @@ License
 -------
 
 L’ensemble des contenus partagés dans cet espace projet sont publiés sur la
-license CC-BY-NC-SA (Creative Commons avec attribution, sans utilisation
-commerciale et avec partage des conditions initiales à l'identique). En
-participant aux contenu de cet espace, vous acceptez que vos contributions
-soient également publiées sous cette license.
+[licence CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.fr)
+(Creative Commons - Attribution - Partage dans les Mêmes Conditions 3.0 non
+transposé). Cette licence ne s’applique pas aux éléments relevant du droit des
+Marques tels que les logos et les noms de produits. Pour éviter toute confusion
+entre droit à la propriété intellectuelle et droit des marques, nous vous
+demandons de ne pas intégrer de logos dans les documents techniques mis à
+disposition sur cette plateforme. En participant aux contenu de cet espace, vous
+acceptez que vos contributions soient également publiées sous cette licence.
