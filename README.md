@@ -125,6 +125,10 @@ pour mettre en oeuvre vos idées!
 
 -   [\@jbon](https://github.com/jbon): Jérémy, support technique
 
+Sinon, vous pouvez aussi nous retrouver sur le fil de discussion dédié à ce
+projet [sur le forum
+Raidlight](https://team.fr.raidlight.com/forums/projet-open-source/).
+
 Ce projet pilote est mené dans le cadre du projet de recherche franco-allemand
 “Open! Methods and tools for community-based product development”. Pour en
 savoir plus sur ce projet: [opensourcedesign.cc](https://opensourcedesign.cc/)
