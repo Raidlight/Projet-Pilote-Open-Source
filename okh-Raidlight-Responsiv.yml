@@ -1,0 +1,62 @@
+%Open know-how manifest 0.1
+---
+
+# The content of this manifest file is licensed under a Creative Commons Attribution 4.0 International License. 
+# Licenses for modification and distribution of the hardware, documentation, source-code, etc are stated separately.
+
+# Remove any fields that are not used. Comments (beginning with '#') may also be removed.
+
+# Manifest metadata
+
+date-created: 2019-10-07                      # YYYY-MM-DD
+
+manifest-author:
+  name: Jérémy Bonvoisin                            # required | text
+  affiliation: University of Bath, Department of Mechanical Engineering                    # text
+  email: j.bonvoisin@bath.ac.uk                           # email address
+
+manifest-language: English-UK
+
+documentation-language: French-FR
+
+# Properties
+
+title: Raidlight Responsiv                            # required | text | A title to identify the thing
+
+description: |                             # required | paragraph
+  Sac gilet Responsiv Raidlight
+
+project-link: https://github.com/Raidlight/Projet-Pilote-Open-Source                      # At least project-link or documentation-home is required, otherwise recommended | absolute path URL
+
+contributors:                              # recommended
+  - name: Raidlight / Skis Rossignol SAS                 # text
+
+image: https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/3%20sacs.jpg                             # recommended | absolute or relative path
+
+development-stage: in production                 # text
+
+made: true                         # boolean - true or false
+
+made-independently: false           # boolean - true or false
+
+# License 
+
+license:                                   # At least one license is required | The format should be an SPDX identifier. See https://spdx.org/licenses/hardware: [value] # recommended | The license under which the hardware is released
+  documentation: CC-BY-SA 3.0                    # recommended | The license under which the documentation is released
+
+licensor: 
+  name: Raidlight / Skis Rossignol SAS                            # text
+  
+# Documentation
+
+documentation-home: https://github.com/Raidlight/Projet-Pilote-Open-Source               # At least one of the project-link or documentation-home fields is required | absolute path
+
+archive-download: https://github.com/Raidlight/Projet-Pilote-Open-Source.git                 # Absolute or relative path
+
+design-files:                             # recommended
+  - path: https://github.com/Raidlight/Projet-Pilote-Open-Source/tree/master/Patrons                        # Absolute or relative path
+    title: patrons                        # text
+
+making-instructions:                      # recommended
+  - path: https://github.com/Raidlight/Projet-Pilote-Open-Source/tree/master/Montage                         # Absolute or relative path
+    title: Guides de montage                        # text
